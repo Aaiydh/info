@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aaiydh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Aaiydh.
+- 👔 I'm a full stack developer, having experties in React & Shopify.
+- 👀 I’m interested in Web Layout and Web Applications.
+- 💞️ I’m looking to collaborate on React and Shopify.
+- 📫 aaiydh.ahmad@gmail.com
 
 <!---
 Aaiydh/Aaiydh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

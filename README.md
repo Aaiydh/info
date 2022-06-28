@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aaiydh.
-- 👔 I'm a full stack developer, having experties in React & Shopify.
+- 👔 I'm a full stack developer, having expertise in React & Shopify.
 - 👀 I’m interested in Web Layout and Web Applications.
 - 💞️ I’m looking to collaborate on React and Shopify.
 - 📫 aaiydh.ahmad@gmail.com

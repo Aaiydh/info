@@ -2,10 +2,10 @@
 
 # 💫 About Me:
 - 👋 Hi, I’m @Aaiydh.
-🔭 I'm a full-stack developer at @AiDev-Lab, having expertise in Next & Shopify Liquid.
-👀 I’m interested in Web Layout and Web Applications.
-💞️ I’m looking to collaborate on React and Shopify Projects.
-📫 aaiydh.ahmad@gmail.com
+- 🔭 I'm a full-stack developer at @AiDev-Lab, having expertise in Next & Shopify Liquid.
+- 👀 I’m interested in Web Layout and Web Applications.
+- 💞️ I’m looking to collaborate on React and Shopify Projects.
+- 📫 aaiydh.ahmad@gmail.com
 
 
 ## 🌐 Socials:
